@@ -1,2 +1,1 @@
-# SMD-NAMD
-Analysis of constant velocity pulling of peptides in NAMD
+I'm converting the NAMD tutorial scripts associated with constant velocity pulling of 10-alanine from tcl to Python in this project.
